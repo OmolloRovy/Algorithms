@@ -1,1 +1,4 @@
-
+Step 1: Start
+Step 2: Read the value of 'n' (the given number) from the user
+Step 3: Initialize variables 'first' and 'second' as 0 and 1 respectively
+Step 4: Print the values of 'first' and 'second'
