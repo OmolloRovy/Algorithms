@@ -1,1 +1,10 @@
 
+Step 1: Start
+Step 2: Read the values of 'start' and 'end' (the two given numbers) from the user
+Step 3: Print the prime numbers between 'start' and 'end' using the following steps:
+Step 4: Repeat steps 5 to 9 for each number 'num' from 'start' to 'end'
+Step 5: Set a flag variable 'isPrime' to true
+Step 6: Repeat steps 7 and 8 for each number 'i' from 2 to the square root of 'num'
+Step 7: If 'num' is divisible by 'i', set 'isPrime' to false and break the loop
+Step 8: If 'isPrime' is true, print 'num' as a prime number
+Step 9: Stop
