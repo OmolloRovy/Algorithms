@@ -2,3 +2,6 @@ Step 1: Start
 Step 2: Read the value of 'n' (the given number) from the user
 Step 3: Initialize variables 'first' and 'second' as 0 and 1 respectively
 Step 4: Print the values of 'first' and 'second'
+Step 5: Initialize variable 'next' as the sum of 'first' and 'second'
+Step 6: Repeat steps 7 and 8 until 'next' is less than or equal to 'n'
+Step 7: Print the value of 'next'
