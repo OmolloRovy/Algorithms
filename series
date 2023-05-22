@@ -5,3 +5,8 @@ Step 4: Print the values of 'first' and 'second'
 Step 5: Initialize variable 'next' as the sum of 'first' and 'second'
 Step 6: Repeat steps 7 and 8 until 'next' is less than or equal to 'n'
 Step 7: Print the value of 'next'
+Step 8: Update the values of 'first', 'second', and 'next' as follows:
+        first = second
+        second = next
+        next = first + second
+Step 9: Stop
