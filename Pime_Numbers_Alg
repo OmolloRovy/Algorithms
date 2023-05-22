@@ -8,3 +8,43 @@ Step 6: Repeat steps 7 and 8 for each number 'i' from 2 to the square root of 'n
 Step 7: If 'num' is divisible by 'i', set 'isPrime' to false and break the loop
 Step 8: If 'isPrime' is true, print 'num' as a prime number
 Step 9: Stop
+// flowchart to implemnt the prime numbers
+  +--------------+
+  | Start        |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Read         |
+  | start, end   |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Print primes |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Loop         |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Check if     |
+  | number is    |
+  | prime        |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Print        |
+  | prime number |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Stop         |
+  +--------------+
+
+
