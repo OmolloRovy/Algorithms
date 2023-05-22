@@ -10,3 +10,51 @@ Step 8: Update the values of 'first', 'second', and 'next' as follows:
         second = next
         next = first + second
 Step 9: Stop
+//Flowchart to impement the series generated
+  +--------------+
+  | Start        |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Read 'n'     |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Initialize   |
+  | variables    |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Print        |
+  | first, second|
+  +--------------+
+         |
+         V
+  +--------------+
+  | Initialize   |
+  | next         |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Repeat       |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Print next   |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Update       |
+  | variables    |
+  +--------------+
+         |
+         V
+  +--------------+
+  | Stop         |
+  +--------------+
