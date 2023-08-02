@@ -1,6 +1,6 @@
 import random
 import time
-ooo
+oo
 # bubble sort implementation
 def bubble_sort(arr):
     n = len(arr)
